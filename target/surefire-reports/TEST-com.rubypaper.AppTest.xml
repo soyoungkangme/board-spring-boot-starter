@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.rubypaper.AppTest" time="0.015" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/bbosong/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/board-spring-boot-starter/target/test-classes:/Users/bbosong/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/board-spring-boot-starter/target/classes:/Users/bbosong/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/bbosong/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/bbosong/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar:/Users/bbosong/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.7.1/spring-boot-autoconfigure-2.7.1.jar:/Users/bbosong/.m2/repository/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1.jar:/Users/bbosong/.m2/repository/org/springframework/spring-core/5.3.21/spring-core-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/spring-jcl/5.3.21/spring-jcl-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/spring-context/5.3.21/spring-context-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/spring-aop/5.3.21/spring-aop-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/spring-expression/5.3.21/spring-expression-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/boot/spring-boot-configuration-processor/2.6.6/spring-boot-configuration-processor-2.6.6.jar:"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="KR"/>
+    <property name="sun.boot.library.path" value="/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_17.0.3.v20220515-1416/jre/lib"/>
+    <property name="sun.java.command" value="/Users/bbosong/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/board-spring-boot-starter/target/surefire/surefirebooter1667193798319605985.jar /Users/bbosong/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/board-spring-boot-starter/target/surefire 2022-07-06T14-43-04_349-jvmRun1 surefire15268662551591560704tmp surefire_02779203810988227201tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|localhost|*.localhost|lx.astxsvc.com|*.lx.astxsvc.com"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/bbosong/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/board-spring-boot-starter/target/test-classes:/Users/bbosong/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/board-spring-boot-starter/target/classes:/Users/bbosong/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/bbosong/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/bbosong/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar:/Users/bbosong/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.7.1/spring-boot-autoconfigure-2.7.1.jar:/Users/bbosong/.m2/repository/org/springframework/boot/spring-boot/2.7.1/spring-boot-2.7.1.jar:/Users/bbosong/.m2/repository/org/springframework/spring-core/5.3.21/spring-core-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/spring-jcl/5.3.21/spring-jcl-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/spring-context/5.3.21/spring-context-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/spring-aop/5.3.21/spring-aop-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/spring-expression/5.3.21/spring-expression-5.3.21.jar:/Users/bbosong/.m2/repository/org/springframework/boot/spring-boot-configuration-processor/2.6.6/spring-boot-configuration-processor-2.6.6.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/bbosong"/>
+    <property name="user.language" value="ko"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-04-19"/>
+    <property name="java.home" value="/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_17.0.3.v20220515-1416/jre"/>
+    <property name="file.separator" value="/"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="/Users/bbosong/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/board-spring-boot-starter"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="/Users/bbosong/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/board-spring-boot-starter/target/surefire/surefirebooter1667193798319605985.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|localhost|*.localhost|lx.astxsvc.com|*.lx.astxsvc.com"/>
+    <property name="java.runtime.version" value="17.0.3+7"/>
+    <property name="user.name" value="bbosong"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="12.2.1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.3+7"/>
+    <property name="localRepository" value="/Users/bbosong/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/36/j_01kq9n0gg945wm66d_lxg00000gn/T/"/>
+    <property name="java.version" value="17.0.3"/>
+    <property name="user.dir" value="/Users/bbosong/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/board-spring-boot-starter"/>
+    <property name="os.arch" value="aarch64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/bbosong/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.3+7"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|localhost|*.localhost|lx.astxsvc.com|*.lx.astxsvc.com"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.rubypaper.AppTest" time="0.001"/>
+</testsuite>

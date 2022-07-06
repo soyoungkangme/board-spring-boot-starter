@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.rubypaper.jdbc.config.BoardAutoConfiguration
+
+
+# 스프링이 제공하는 자동설정 클래스와 내가 만든 자동 설정 클래스 
+# spring-boot-autoconfigure.jar 안에 있는 @EnableAutoConfiguration 이 META-INF/spring.factories 의 자동 설정 클래스 로딩
+# @EnableAutoConfiguration이 로딩하는 자동설정 클래스 
